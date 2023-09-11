@@ -11,6 +11,11 @@
 - [2023-07-01] Add some deploying tools: vLLM, Text Generation Inference
 - [2023-07-01] Add some great post about LLM from Yao Fu, Lilian and Andrej
 
+## Sponsor
+- Awesome LLM is proudly sponsored by Predibase, an end-end LLM infrastructure platform:
+  <img width="1379" alt="image" src="https://github.com/adameldefrawy/Awesome-LLM/assets/41887951/5fb00d37-a96a-4365-9f07-ab55af0116aa">
+
+
 ### ToDos
 
 - Add LLM data (Pretraining data/Instruction Tuning data/Chat data/RLHF data) :sparkles:**Contributions Wanted**
