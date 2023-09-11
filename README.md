@@ -13,9 +13,11 @@
 
 ## Sponsor
 
-Awesome LLM is proudly sponsored by Predibase, an end-end LLM infrastructure platform
+Awesome LLM is proudly sponsored by Predibase, an end-to-end LLM infrastructure platform
 
   <img width="1000" alt="image" src="https://github.com/adameldefrawy/Awesome-LLM/assets/41887951/5fb00d37-a96a-4365-9f07-ab55af0116aa">[predibase.com]
+
+[![Predibase, an end-to-end LLM Infrastructure platform](https://github.com/adameldefrawy/Awesome-LLM/assets/41887951/5fb00d37-a96a-4365-9f07-ab55af0116aa)](www.predibase.com)
 
 
 ### ToDos
