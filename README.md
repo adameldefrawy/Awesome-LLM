@@ -17,6 +17,7 @@ Awesome LLM is proudly sponsored by [Predibase](https://predibase.com), an end-t
 
 [![Predibase, an end-to-end LLM Infrastructure platform](https://i.gyazo.com/8ca70f101cddb621d9626603f699d885.gif)](https://gyazo.com/8ca70f101cddb621d9626603f699d885)
 
+![3e8f2c6fe0bc6ce5dc253a819e72476e](https://github.com/adameldefrawy/Awesome-LLM/assets/41887951/83044b04-dee2-443f-aee4-d85383b0a75d)
 
 ### ToDos
 
